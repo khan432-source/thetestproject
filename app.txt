@@ -9,6 +9,6 @@
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "bottom_visible": "no",
-        "msg_visible": "yes"
+        "msg_visible": "no"
     }
 ]
