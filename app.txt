@@ -9,7 +9,7 @@
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "bottom_visible": "no",
-        "msg_visible": "no",
+        "msg_visible": "yes",
         "score_visible": "yes",
         "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"Live Now\",\"link\":\"https:\\\/\\\/www.noirstreams.live\\\/stream\\\/server1-viaplay-sports-1-uk\\\/index.m3u8?key=NOIR-ZDB8KP-2026\",\"api\":\"\",\"tokenApi\":\"\",\"scheme\":0}"
     },
