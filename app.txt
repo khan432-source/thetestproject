@@ -12,7 +12,7 @@
         "msg_visible": "no",
         "score_visible": "yes",
         "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"Live Now\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/cjglydxghe\\\/out\\\/v1\\\/8977baf175da4b94873194613dd3fe55\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0\",\"tokenApi\":\"\",\"scheme\":0}",
-        "cat_icons": "{\"Baseball\":\"https:\\\/\\\/media4.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyMHhsb2g0ODJsMDU0MHRhNGU5d3V5aHV3aXF2YXZ1bjZlaXl6dmg5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/NUM5PdElbiAftk1LK2\\\/giphy.gif\",\"Basketball\":\"https:\\\/\\\/media1.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyN2k3aDloY2N1b3ZqNmNubHdmNGh2cjNkZ2VnNXd5ZmE2NjlmaGRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/3wqMxx4VAkByM\\\/giphy.gif\"}"
+        "cat_icons": "{\"Baseball\":\"https:\\\/\\\/media1.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyb2JuMWp6N2h2NXl2a2UyOHJkeHdlenp6bmJncWpkMDJ3dTh4YzFvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/n2wUecltiJOucDzPbg\\\/giphy.gif\",\"Basketball\":\"https:\\\/\\\/media3.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUycGJiMjZvdnkxbnozcnZzb2JubWwwbW02NnppNjE5ejVvcW1pZWpwNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/0st3KrwfVS1YvfskfH\\\/giphy.gif\"}"
     },
     {
         "id": "2",
