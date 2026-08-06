@@ -6,7 +6,7 @@
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "app_version": "23",
         "message": "Click To Give 5 Star Review \u2b50\u2b50\u2b50\u2b50\u2b50.         ",
-        "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
+        "message_url": "https:\/\/t.me\/boost?c=4376420192",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "bottom_visible": "no",
         "msg_visible": "no",
