@@ -12,7 +12,7 @@
         "msg_visible": "yes",
         "score_visible": "yes",
         "default_link": "{\"name\":\"Server 1\",\"subTitle\":\"Live Now\",\"link\":\"https:\\\/\\\/otte.cache.aiv-cdn.net\\\/bom-nitro\\\/live\\\/clients\\\/dash\\\/enc\\\/cjglydxghe\\\/out\\\/v1\\\/8977baf175da4b94873194613dd3fe55\\\/cenc.mpd|user-agent=Mozilla\\\/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit\\\/537.36 (KHTML, like Gecko) Chrome\\\/149.0.0.0 Safari\\\/537.36\",\"api\":\"85b277daf5aae05833fe43a68f587968:d52d7e9bc0bcd98787efd547ac91eca0\",\"tokenApi\":\"\",\"scheme\":0}",
-        "cat_icons": "{\"American football\":\"https:\\\/\\\/i.pinimg.com\\\/originals\\\/3e\\\/0c\\\/11\\\/3e0c113b191abbd97ecd50ece245f7ac.gif\",\"Baseball\":\"https:\\\/\\\/media2.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUycTJpZmwzNzhxNjMzanBsNzA5Z2RnZHB1N2gybnpxeXQ0Nm5md2lvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/6FBEdKsCTCtmdfNhXL\\\/giphy.gif\",\"Basketball\":\"https:\\\/\\\/media4.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUycTc4eXZrdzczOHl2NTFwOXJ2am95dWl0YXR1NWllcnFzNGx0eTdnaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/RSLs6XPIojQAmB9TF2\\\/giphy.gif\"}"
+        "cat_icons": "{\"American football\":\"https:\\\/\\\/i.pinimg.com\\\/originals\\\/3e\\\/0c\\\/11\\\/3e0c113b191abbd97ecd50ece245f7ac.gif\",\"Baseball\":\"https:\\\/\\\/media2.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUycTJpZmwzNzhxNjMzanBsNzA5Z2RnZHB1N2gybnpxeXQ0Nm5md2lvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/6FBEdKsCTCtmdfNhXL\\\/giphy.gif\",\"Basketball\":\"https:\\\/\\\/media0.giphy.com\\\/media\\\/v1.Y2lkPTZjMDliOTUyZnJ1amhpZnY1ZGNpNWVjNmxrZnlqaTh2NXJ5MXY2dzFyb2NnMmYyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw\\\/aFzMJag7oePUydq4NA\\\/giphy.gif\"}"
     },
     {
         "id": "2",
