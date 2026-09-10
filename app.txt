@@ -5,7 +5,7 @@
         "download_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "web_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "app_version": "23",
-        "message": "Click to Join our Official Telegram Channel",
+        "message": "Click to give Ninja Stream a Five Star \u2b50",
         "message_url": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "share_message": "https:\/\/play.google.com\/store\/apps\/details?id=rtasports.live.hd.new",
         "bottom_visible": "no",
